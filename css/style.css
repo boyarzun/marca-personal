@@ -5133,3 +5133,11 @@ ul.contact_social_networks_list > li {
 	margin-top: 25px;
 	margin-bottom: 25px;
 }
+
+.github_icon {
+	color: #000;
+}
+
+.github_icon:hover {
+	color: #000;
+}
