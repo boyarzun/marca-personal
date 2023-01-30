@@ -5141,3 +5141,15 @@ ul.contact_social_networks_list > li {
 .github_icon:hover {
 	color: #000;
 }
+
+.personal .dodo_progress ul {
+	list-style: inside;
+}
+
+.info_list .text ul {
+	list-style: inside;
+}
+
+.info_list .text ul li {
+	margin: 0;
+}
